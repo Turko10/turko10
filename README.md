@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi I'm Kaan</h1>
+<h1 align="center">Hi I'm Kaan 👋🏻</h1>
 <h3 align="center">Software Engineer Student | Mention Cibersecurity</h3>
 <p align="center">
 <!-- <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -18,8 +18,8 @@
 
 <p align="center">
   <em>
-    This is ME, Akash chowrasia, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Amritsar college of engineering & technology</b>, amritsar</a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is ME, a <b>final year</b> undergraduate.
+    A budding <b> Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
