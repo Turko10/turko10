@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/Turko10/turko10/blob/main/Canva.jpg" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi I'm Kaan 👋🏻</h1>
